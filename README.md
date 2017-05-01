@@ -1,8 +1,8 @@
-# Media.Wedding
+# MyPerfect.Wedding
 
 Basic contact form in Angular 4 with Bootstrap 3.3
 
-http://media.wedding
+http://myperfect.wedding
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
